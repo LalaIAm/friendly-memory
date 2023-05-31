@@ -1,0 +1,12 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "A Amplication todo app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm --prefix web start",
+    "postinstall": "npm i --prefix web"
+  },
+  "author": "",
+  "license": "ISC"
+}
